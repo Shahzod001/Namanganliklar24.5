@@ -216,6 +216,7 @@ border-radius: 10px;
 .large_section_text_box {
     background-color: #f6f6f6;
     width: 797px;
+    display: flex;
 }
 .large_section_text_box_link {
 }
@@ -296,6 +297,9 @@ padding: 17px 343px;
 }
 .aside_link_img {
 }
+footer{
+    display: flex;
+}
 .footer_link {
 }
 .footer_link_img {
@@ -307,6 +311,7 @@ padding: 17px 343px;
     color: #ffffff;
 }
 .footer_link_img_paragraph_nav {
+    display: flex;
 }
 .footer_link_img_paragraph_nav_list {
     text-decoration: none;
